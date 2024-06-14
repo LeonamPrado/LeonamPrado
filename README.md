@@ -24,19 +24,19 @@ specializing in Analysis and Development of Full-stack and Mobile Systems.
   <img align="left" alt="angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"/>
   <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
+ 
 </div>
 
 <br /><br /><br />
 
-
 <div align="center">
-        <img 
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonamPrado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonamPrado&layout=donut-vertical" />
 </div>
+
+
+
+  
+
 
 
 
